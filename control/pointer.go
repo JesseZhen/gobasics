@@ -15,3 +15,10 @@ func main() {
 	fmt.Println(*p)
 }
 
+//output
+/×
+<nil>
+0xc0420441d8
+100
+×/
+
