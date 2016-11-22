@@ -14,7 +14,7 @@ const (
 	PB
 )
 
-func main() {
+func main() {                          
 	fmt.Println(B)
 	fmt.Println(KB)
 	fmt.Println(MB)
@@ -24,11 +24,13 @@ func main() {
 }
 
 //output:
-/*
+/* 
+
 1
 1024
 1048576
 1073741824
 1099511627776
-1125899906842624
+1125899906842624 
+
 */
